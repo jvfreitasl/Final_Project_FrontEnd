@@ -1,9 +1,11 @@
+import Paths from "./routes/Paths";
+
 const App = () => {
-  return ( 
-  <>
-    <h1>Inicio</h1>
-  </>
- );
-}
- 
+  return (
+    <>
+      <Paths />
+    </>
+  );
+};
+
 export default App;

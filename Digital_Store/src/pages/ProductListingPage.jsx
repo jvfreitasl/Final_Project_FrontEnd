@@ -1,9 +1,9 @@
-const Products = () => {
-  return ( 
+const ProductsList = () => {
+  return (
     <>
       <h1>Produtos</h1>
     </>
-   );
-}
- 
-export default Products;
+  );
+};
+
+export default ProductsList;
